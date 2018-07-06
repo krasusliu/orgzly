@@ -1,0 +1,2 @@
+# orgzly
+for orgzly sync
